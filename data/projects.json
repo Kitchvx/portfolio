@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "nkitch.com",
+    "title": "nkitch.com",
+    "summary": "Lightweight HTML/CSS landing page for nkitch.com, serving as a quick gateway to my portfolio and blog.",
+    "description": "This project is a lightweight HTML and CSS landing page for nkitch.com, designed to act as a clean entry point to my online presence. It provides quick access to my portfolio and blog, with minimal loading overhead and no unnecessary frameworks. The goal was to keep it visually consistent with my brand while ensuring it loads instantly, even on slow connections. This page also serves as a low-maintenance placeholder while other parts of my site evolve, making it easy to update links or styling without touching any complex build pipeline.",
+    "metaDescription": "Minimal HTML/CSS landing page for nkitch.com — fast-loading and brand-consistent, linking directly to my portfolio and blog.",
+    "tags": ["HTML", "CSS"],
+    "href": "https://example.com",
+    "links": {
+      "repo": "https://github.com/Kitchvx/",
+      "demo": "https://example.com"
+    },
+    "images": ["/projects/nkitch.com/.jpg"]
+  },
+  {
+    "slug": "portfolio",
+    "title": "Portfolio",
+    "summary": "Responsive, clean web app for showcasing my projects, built with Next.js, Tailwind CSS, and Framer Motion.",
+    "description": "A responsive, minimal, and clean web application built to showcase my projects in an organised and visually appealing way. Developed with Next.js for modern React-based routing and performance, Tailwind CSS for rapid and consistent styling, and Framer Motion for smooth animations and transitions. The site includes dynamically generated project pages, a section for featured work, and integration with my GitHub activity feed. While intentionally kept lightweight, the design ensures it works well across devices and can be easily extended with new features as my portfolio grows.",
+    "metaDescription": "Next.js portfolio site with Tailwind CSS and Framer Motion. Showcasing projects in a clean, responsive design with animations and GitHub integration.",
+    "tags": ["Next.js", "Tailwind", "Framer Motion", "Web"],
+    "href": "https://example.com",
+    "links": {
+      "repo": "https://github.com/Kitchvx/",
+      "demo": "https://example.com"
+    },
+    "images": ["/projects/nkitch.com/.jpg"]
+  },
+  {
+    "slug": "blog",
+    "title": "Blog",
+    "summary": "A content-focused blog styled like my portfolio, powered by Next.js, Tailwind CSS, Framer Motion, Firebase, and Vercel.",
+    "description": "This blog takes the visual style and structure of my portfolio and builds on it with a richer tech stack. Using Next.js for static and dynamic page generation, Tailwind CSS for utility-first styling, and Framer Motion for smooth UI animations, it delivers a clean yet engaging reading experience. Blog posts are managed through Firebase for real-time content updates and secure storage, while Vercel handles fast global deployment. The result is a responsive, performant platform for publishing articles, tutorials, and personal updates, with the flexibility to grow alongside my content needs.",
+    "metaDescription": "Modern blog built with Next.js, Tailwind, Framer Motion, Firebase, and Vercel. Fast, responsive, and styled like my portfolio.",
+    "tags": ["Next.js", "Tailwind", "Framer Motion", "Web", "Firebase"],
+    "href": "https://example.com",
+    "links": {
+      "repo": "https://github.com/Kitchvx/",
+      "demo": "https://example.com"
+    },
+    "images": ["/projects/nkitch.com/.jpg"]
+  },
+  {
+    "slug": "homelab",
+    "title": "Homelab stack",
+    "summary": "Blog series detailing my homelab journey.",
+    "description": "This project is a detailed, ongoing chronicle of my homelab journey. Through a series of blog posts, I cover how the setup began, the reasoning behind each component, and the challenges I’ve faced along the way. The homelab currently runs a variety of services including Docker for containerised workloads, Pi-hole for network-wide ad blocking, Jellyfin for self-hosted media streaming, and Wazuh for security monitoring and intrusion detection. Each post explores the technical decisions, problem-solving strategies, and lessons learned, offering insights for anyone looking to build or expand their own home server environment.",
+    "metaDescription": "Homelab blog series covering setup, challenges, and tools like Docker, Pi-hole, Jellyfin, and Wazuh.",
+    "tags": ["Docker", "Pi-hole", "Jellyfin", "Wazuh"],
+    "href": "https://example.com",
+    "links": {
+      "repo": "https://github.com/Kitchvx/",
+      "demo": "https://example.com"
+    },
+    "images": ["/projects/nkitch.com/.jpg"]
+  },
+  {
+    "slug": "arch-suckless",
+    "title": "Arch Suckless",
+    "summary": "Custom Arch Linux setup with patched Suckless tools, tmux/nvim configs, and CI-managed dotfiles on my trusty ThinkPad T480.",
+    "description": "A fully customised Arch Linux setup built for efficiency, minimalism, and complete control over the workflow. Running on a ThinkPad T480, the environment is centred around Suckless software — including dwm, st, and dmenu — all with hand-picked patches to improve usability while keeping the codebase lean. The setup also includes personalised configurations for tmux and Neovim, optimised for daily development and sysadmin work. All dotfiles are version-controlled and validated via a CI pipeline, ensuring changes are tested and reproducible across fresh installs. The result is a streamlined, keyboard-driven workspace that’s portable, maintainable, and tailored for power-user productivity.",
+    "metaDescription": "Custom Arch Linux setup with patched Suckless tools, tmux/nvim configs, and CI-managed dotfiles for a ThinkPad T480.",
+    "tags": ["Arch", "DWM", "tmux", "CI"],
+    "href": "https://example.com",
+    "links": {
+      "repo": "https://github.com/Kitchvx/",
+      "demo": "https://example.com"
+    },
+    "images": ["/projects/nkitch.com/.jpg"]
+  }
+]

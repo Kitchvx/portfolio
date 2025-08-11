@@ -6,12 +6,12 @@
     "description": "This project is a lightweight HTML and CSS landing page for nkitch.com, designed to act as a clean entry point to my online presence. It provides quick access to my portfolio and blog, with minimal loading overhead and no unnecessary frameworks. The goal was to keep it visually consistent with my brand while ensuring it loads instantly, even on slow connections. This page also serves as a low-maintenance placeholder while other parts of my site evolve, making it easy to update links or styling without touching any complex build pipeline.",
     "metaDescription": "Minimal HTML/CSS landing page for nkitch.com — fast-loading and brand-consistent, linking directly to my portfolio and blog.",
     "tags": ["HTML", "CSS"],
-    "href": "https://example.com",
+    "href": "https://nkitch.com",
     "links": {
-      "repo": "https://github.com/Kitchvx/",
-      "demo": "https://example.com"
+      "repo": "https://github.com/Kitchvx/nkitch.com",
+      "demo": "https://nkitch.com"
     },
-    "images": ["/projects/nkitch.com/.jpg"]
+    "images": ["/projects/nkitch.com/1.jpg"]
   },
   {
     "slug": "portfolio",
@@ -20,12 +20,12 @@
     "description": "A responsive, minimal, and clean web application built to showcase my projects in an organised and visually appealing way. Developed with Next.js for modern React-based routing and performance, Tailwind CSS for rapid and consistent styling, and Framer Motion for smooth animations and transitions. The site includes dynamically generated project pages, a section for featured work, and integration with my GitHub activity feed. While intentionally kept lightweight, the design ensures it works well across devices and can be easily extended with new features as my portfolio grows.",
     "metaDescription": "Next.js portfolio site with Tailwind CSS and Framer Motion. Showcasing projects in a clean, responsive design with animations and GitHub integration.",
     "tags": ["Next.js", "Tailwind", "Framer Motion", "Web"],
-    "href": "https://example.com",
+    "href": "https://portfolio.nkitch.com",
     "links": {
-      "repo": "https://github.com/Kitchvx/",
-      "demo": "https://example.com"
+      "repo": "https://github.com/Kitchvx/portfolio",
+      "demo": "https://portfolio.nkitch.com"
     },
-    "images": ["/projects/nkitch.com/.jpg"]
+    "images": ["/projects/portfolio/1.jpg"]
   },
   {
     "slug": "blog",
@@ -34,12 +34,12 @@
     "description": "This blog takes the visual style and structure of my portfolio and builds on it with a richer tech stack. Using Next.js for static and dynamic page generation, Tailwind CSS for utility-first styling, and Framer Motion for smooth UI animations, it delivers a clean yet engaging reading experience. Blog posts are managed through Firebase for real-time content updates and secure storage, while Vercel handles fast global deployment. The result is a responsive, performant platform for publishing articles, tutorials, and personal updates, with the flexibility to grow alongside my content needs.",
     "metaDescription": "Modern blog built with Next.js, Tailwind, Framer Motion, Firebase, and Vercel. Fast, responsive, and styled like my portfolio.",
     "tags": ["Next.js", "Tailwind", "Framer Motion", "Web", "Firebase"],
-    "href": "https://example.com",
+    "href": "https://blog.nkitch.com",
     "links": {
-      "repo": "https://github.com/Kitchvx/",
-      "demo": "https://example.com"
+      "repo": "https://github.com/Kitchvx/blog",
+      "demo": "https://blog.nkitch.com"
     },
-    "images": ["/projects/nkitch.com/.jpg"]
+    "images": ["/projects/blog/1.jpg"]
   },
   {
     "slug": "homelab",
@@ -48,12 +48,12 @@
     "description": "This project is a detailed, ongoing chronicle of my homelab journey. Through a series of blog posts, I cover how the setup began, the reasoning behind each component, and the challenges I’ve faced along the way. The homelab currently runs a variety of services including Docker for containerised workloads, Pi-hole for network-wide ad blocking, Jellyfin for self-hosted media streaming, and Wazuh for security monitoring and intrusion detection. Each post explores the technical decisions, problem-solving strategies, and lessons learned, offering insights for anyone looking to build or expand their own home server environment.",
     "metaDescription": "Homelab blog series covering setup, challenges, and tools like Docker, Pi-hole, Jellyfin, and Wazuh.",
     "tags": ["Docker", "Pi-hole", "Jellyfin", "Wazuh"],
-    "href": "https://example.com",
+    "href": "/",
     "links": {
-      "repo": "https://github.com/Kitchvx/",
-      "demo": "https://example.com"
+      "repo": "/",
+      "demo": "/"
     },
-    "images": ["/projects/nkitch.com/.jpg"]
+    "images": ["/projects/homelab/1.jpg"]
   },
   {
     "slug": "arch-suckless",
@@ -67,6 +67,6 @@
       "repo": "https://github.com/Kitchvx/",
       "demo": "https://example.com"
     },
-    "images": ["/projects/nkitch.com/.jpg"]
+    "images": ["/projects/arch-suckless/1.jpg"]
   }
 ]
